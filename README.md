@@ -7,6 +7,6 @@ i built a Python model to simulate a distributed DDoS attack on multiple nodes:
 * Bandwidth exhaustion triggers node overloads.
 
 Simulation Results:
- 90 malicious requests blocked
- Nodes eventually overloaded under sustained traffic
- Shows how defenses slow attacks but architecture determines survival.
+ * 90 malicious requests blocked
+ * Nodes eventually overloaded under sustained traffic
+ * Shows how defenses slow attacks but architecture determines survival.
